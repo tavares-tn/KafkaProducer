@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Tavares\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Tavares\\.nuget\\packages"
+    ]
+  }
+}

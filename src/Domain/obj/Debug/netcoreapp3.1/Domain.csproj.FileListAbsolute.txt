@@ -25,3 +25,13 @@ D:\Tavares\Projetos\CSharp\kafka-producer\src\Domain\obj\Debug\netcoreapp3.1\Dom
 D:\Tavares\Projetos\CSharp\kafka-producer\src\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
 D:\Tavares\Projetos\CSharp\kafka-producer\src\Domain\obj\Debug\netcoreapp3.1\Domain.dll
 D:\Tavares\Projetos\CSharp\kafka-producer\src\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+D:\Tavares\Projetos\CSharp\KafkaProducer\src\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\Tavares\Projetos\CSharp\KafkaProducer\src\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Tavares\Projetos\CSharp\KafkaProducer\src\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Tavares\Projetos\CSharp\KafkaProducer\src\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+D:\Tavares\Projetos\CSharp\KafkaProducer\src\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tavares\Projetos\CSharp\KafkaProducer\src\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\Tavares\Projetos\CSharp\KafkaProducer\src\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\Tavares\Projetos\CSharp\KafkaProducer\src\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\Tavares\Projetos\CSharp\KafkaProducer\src\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\Tavares\Projetos\CSharp\KafkaProducer\src\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

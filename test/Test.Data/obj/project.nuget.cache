@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8UeBVaWtSe45yvZovyfubMZaasvOULPn7M3Gpr/4mojD1VEFNBGvuL9iQPkvhw6FWUOy/9cj4gjhyguCo7B8Pw==",
+  "dgSpecHash": "9RLmQPy3tVRBV7+TsTJVna5HFxJs+sJdiPd01J+vo2Cij1IuLkzhZLSmRyoRUrs2142x25WqIfsjhfxk2FVhuA==",
   "success": true,
   "projectFilePath": "D:\\Tavares\\Projetos\\CSharp\\KafkaProducer\\test\\Test.Data\\Test.Data.csproj",
   "expectedPackageFiles": [

@@ -10,7 +10,7 @@ namespace Infra.CrossCutting.DependencyInejection
     {
         public static void ConfigureDependenciesRepository(IServiceCollection serviceCollection)
         {
-            serviceCollection.AddScoped(typeof(IRepository<>), typeof(BaseRepository<>));
+            serviceCollection.AddScoped(typeof(IRepository<>), typeof(KafkaRepository<>));
 
             serviceCollection.AddDbContext<MyContext>(
                 options => options.UseMySql("Server=localhost;Port=3306;Database=teste;Uid=root;Pwd=admin")

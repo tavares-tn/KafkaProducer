@@ -1,7 +1,5 @@
-using System;
 using AutoMapper;
 using Infra.CrossCutting.DependencyInejection;
-using Infra.CrossCutting.Mappings;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -28,9 +26,8 @@ namespace application
 
             var config = new AutoMapper.MapperConfiguration(cfg =>
             {
-                cfg.AddProfile(new DtoToModelProfile());
-                cfg.AddProfile(new EntityToDtoProfile());
-                cfg.AddProfile(new ModelToEntity());
+
+
             });
 
             IMapper mapper = config.CreateMapper();
@@ -43,7 +40,7 @@ namespace application
                 c.SwaggerDoc("v1", new OpenApiInfo
                 {
                     Version = "v1",
-                    Title = "Api Gateway Ahch-To Frame",                   
+                    Title = "Kafka Producer",                   
                 });
             });
         }
@@ -59,7 +56,7 @@ namespace application
             app.UseSwagger();
             app.UseSwaggerUI(c =>
             {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Api Gateway Ahch-To Frame");
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Kafka Producer");
                 c.RoutePrefix = string.Empty;
             });
 
